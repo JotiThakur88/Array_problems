@@ -21,6 +21,7 @@ LEET TO GITHUB
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/Array_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/JotiThakur88/Array_problems/tree/main/0136-single-number/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ LEET TO GITHUB
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,8 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
