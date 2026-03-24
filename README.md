@@ -19,6 +19,7 @@ LEET TO GITHUB
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/Array_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,9 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/Array_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
