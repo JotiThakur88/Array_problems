@@ -14,6 +14,7 @@ LEET TO GITHUB
 | [0027-remove-element](https://github.com/JotiThakur88/Array_problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
