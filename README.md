@@ -20,6 +20,7 @@ LEET TO GITHUB
 | [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/Array_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/JotiThakur88/Array_problems/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/JotiThakur88/Array_problems/tree/main/0136-single-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
