@@ -17,6 +17,7 @@ LEET TO GITHUB
 | [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/JotiThakur88/Array_problems/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,8 +53,13 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/JotiThakur88/Array_problems/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/JotiThakur88/Array_problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
