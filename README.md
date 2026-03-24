@@ -15,6 +15,7 @@ LEET TO GITHUB
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/JotiThakur88/Array_problems/tree/main/0046-permutations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,5 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/JotiThakur88/Array_problems/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/JotiThakur88/Array_problems/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
