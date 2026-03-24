@@ -13,6 +13,7 @@ LEET TO GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JotiThakur88/Array_problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,5 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
