@@ -10,6 +10,7 @@ LEET TO GITHUB
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/Array_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/JotiThakur88/Array_problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/JotiThakur88/Array_problems/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0015-3sum](https://github.com/JotiThakur88/Array_problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/JotiThakur88/Array_problems/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/Array_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
