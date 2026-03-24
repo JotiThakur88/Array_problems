@@ -22,6 +22,7 @@ LEET TO GITHUB
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/JotiThakur88/Array_problems/tree/main/0136-single-number/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0704-binary-search](https://github.com/JotiThakur88/Array_problems/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ LEET TO GITHUB
 | [0035-search-insert-position](https://github.com/JotiThakur88/Array_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/JotiThakur88/Array_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JotiThakur88/Array_problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0704-binary-search](https://github.com/JotiThakur88/Array_problems/tree/main/0704-binary-search/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
